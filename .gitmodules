@@ -1,0 +1,3 @@
+[submodule "libs/SkillsModule-Types"]
+	path = libs/SkillsModule-Types
+	url = https://github.com/Joshua-Lubin/SkillsModule-Types
